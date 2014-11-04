@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Description of hello-world repo
+My name is Jo, and I'm a great programmer.
